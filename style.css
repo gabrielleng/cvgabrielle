@@ -1,0 +1,30 @@
+body{background-color: grey;}
+
+header {background-color: #CECECE;
+font-family: 'Comfortaa', cursive;
+text-align: center;
+margin-bottom:1%;}
+
+a {text-decoration: none;
+color: white;}
+
+.bloc {margin-top: 1%;
+    font-family: 'Open Sans Condensed', sans-serif;
+background-color: white;
+    color: grey;
+width: 70%;
+height: 50%;
+margin: auto;
+text-align: center;}
+
+
+footer {
+    margin-top:1%;
+    background-color: #CECECE;
+font-family: 'Comfortaa', cursive;
+text-align: center;
+color: white;}
+
+img {padding-top:2%;}
+
+ol {text-align: left;}
